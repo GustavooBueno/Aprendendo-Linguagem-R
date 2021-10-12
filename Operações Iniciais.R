@@ -1,0 +1,25 @@
+#Operações básicas Linguagem R
+
+#Adição
+9+1
+
+#Subtração
+10-5
+
+#Divisão
+8/6
+
+#Multiplicação
+4*7
+
+#Exponenciação
+2^4
+
+#Resto de Divisão
+4%%4
+
+#Ordem de parenteses
+10 * (2+3)
+
+#Ordem matemática
+(1+2)/2

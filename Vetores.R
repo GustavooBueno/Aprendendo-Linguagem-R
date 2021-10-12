@@ -1,0 +1,8 @@
+#Vetores
+
+vetores <- c(5, 4, 1 ,6, 2)
+vetores #retorna o vetor todo
+vetores[2] #na linguagem R os vetores começam no 1(diferente do C que começa no 0)
+
+x <- 10
+x #todas as variaveis em R são vetores
